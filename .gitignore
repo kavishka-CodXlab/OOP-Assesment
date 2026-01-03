@@ -1,0 +1,11 @@
+*.class
+.DS_Store
+*.dat
+TheGreenBasket/data/*.csv
+!TheGreenBasket/data/products.csv
+!TheGreenBasket/data/users.csv
+bin/
+out/
+.idea/
+.vscode/
+*.log
